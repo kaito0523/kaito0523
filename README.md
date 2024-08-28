@@ -1,4 +1,4 @@
-Tanabe Kaito（田辺魁堂）です<br>
+<div align="center"> Tanabe Kaito（田辺魁堂）です<br> </div>
 ジンベエザメが好きです
 
 <div align="center">  
