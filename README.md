@@ -1,11 +1,11 @@
 
-### <div align="center">田辺 魁堂  - Tanabe Kaito </div>  
+### <div align="left">田辺 魁堂  - Tanabe Kaito </div>  
   
 
-<div align="center"> - Likes: Whale sharks and dreams of swimming with one someday.  </div>  
+<div align="left"> - Likes: Whale sharks and dreams of swimming with one someday.  </div>  
   
 
-<div align="center"> - Hobbies: Participating in fighting game and FPS tournaments.  </div>  
+<div align="left"> - Hobbies: Participating in fighting game and FPS tournaments.  </div>  
   
 
 <br/>  
