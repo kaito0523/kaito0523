@@ -1,33 +1,59 @@
+# 🦈 田辺 魁堂 | Kaito Tanabe 🐳
 
-### <div align="left">田辺 魁堂  - Tanabe Kaito </div>  
-  
+**KADOKAWAドワンゴ情報工科学院 2年次 (26卒)**  
+    Webエンジニア志望 | ジンベエザメが好きです
 
-<div align="left"> - Likes: Whale sharks and dreams of swimming with one someday.  </div>  
-  
+## 📂 プロジェクト
 
-<div align="left"> - Hobbies: Participating in fighting game and FPS tournaments.  </div>  
-  
+### 🍳 レシピ投稿サイト Zubolife
+1. **Django版** - 初めての個人開発プロジェクト
+- 使用技術：Python, Django, MySQL <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaito0523&repo=Zubolife)](https://github.com/kaito0523/Zubolife)
 
-<br/>  
+2. **Laravel版** - 機能を改善し、新規に作り直したバージョン
+- 使用技術：PHP, Laravel, MySQL, AWS
+- [サービスURL](http://zuboralife.com/) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaito0523&repo=Zubolife_Laravel)](https://github.com/kaito0523/Zubolife_Laravel)
+    
+### 👶 TeenTalentHub - 子供向けクラウドソーシングプラットフォーム（開発中）
+- 使用技術：PHP, Laravel, PostgreSQL, Next.js <br>
 
+# 💻 技術スタック
 
-## My Skill   
-<table><tr><td valign="top" width="33%">
-
-
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+## 🔤 プログラミング言語
+<div align="left" style="display: flex; gap: 10px; margin-bottom: 15px">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
 </div>
 
+## 🛠️ フレームワーク
+<div align="left" style="display: flex; gap: 10px; margin-bottom: 15px">
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
+</div>
 
-<!---
-kaito0523/kaito0523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💾 データベース
+<div align="left" style="display: flex; gap: 10px; margin-bottom: 15px">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
+</div>
+
+## ☁️ クラウド & インフラ
+<div align="left" style="display: flex; gap: 10px; margin-bottom: 15px">
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+</div>
+
+## 🎨 その他のツール
+<div align="left" style="display: flex; gap: 10px; margin-bottom: 15px">
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/>
+</div>
+
