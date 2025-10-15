@@ -3,21 +3,6 @@
 **KADOKAWAドワンゴ情報工科学院 2年次 (26卒)**  
     Webエンジニア志望 | ジンベエザメが好きです
 
-## 📂 プロジェクト
-
-### 🍳 レシピ投稿サイト Zubolife
-1. **Django版** - 初めての個人開発プロジェクト
-- 使用技術：Python, Django, MySQL <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaito0523&repo=Zubolife)](https://github.com/kaito0523/Zubolife)
-
-2. **Laravel版** - 機能を改善し、新規に作り直したバージョン
-- 使用技術：PHP, Laravel, MySQL, AWS
-- [サービスURL](http://zuboralife.com/) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaito0523&repo=Zubolife_Laravel)](https://github.com/kaito0523/Zubolife_Laravel)
-    
-### 👶 TeenTalentHub - 子供向けクラウドソーシングプラットフォーム（開発中）
-- 使用技術：PHP, Laravel, PostgreSQL, Next.js <br>
-
 # 💻 技術スタック
 
 ## 🔤 プログラミング言語
